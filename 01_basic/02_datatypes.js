@@ -6,3 +6,7 @@ let isLogged = false
 
 // null is a standalone value
 // undefined means value is not assigned yet
+// symbols to define unique
+
+console.log(typeof null) //object
+console.log(typeof undefined) //undefined

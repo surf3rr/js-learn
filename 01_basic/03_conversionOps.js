@@ -12,3 +12,7 @@ console.log(typeof changingScore)
 //undefined => Nan
 //null = 
 //true => 1
+
+let value = 3
+let negvalue = -value
+console.log(negvalue)

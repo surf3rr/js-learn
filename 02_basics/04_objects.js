@@ -42,6 +42,14 @@ const course = {
 
 }
 
+const {courseLearner} = course;
+
 const {courseLearner : inst} = course;
 
-console.log(inst)
+console.log(inst);
+
+/*{
+    "name": "Utkarsh",
+    "age": "19",
+}
+*/
